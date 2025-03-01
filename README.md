@@ -63,17 +63,15 @@ With a background in **Electronics and Communication Engineering (ECE)** and a s
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-%2300607D.svg?style=flat&logo=platformio&logoColor=white)
 
 ---
-### 📊 GitHub Stats
+## 📊 GitHub Stats  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kalai21-creator&show_icons=true&theme=radical)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?Kalai21-creator=your-github-Kalai21-creator&show_icons=true&theme=radical)
+## 🔥 GitHub Streak  
+![GitHub Streak](https://streak-stats.demolab.com?user=Kalai21-creator&theme=radical&hide_border=true)
 
-### 🔥 Most Used Languages
+## 💹 Top Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalai21-creator&layout=compact&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Kalai21-creator=your-github-Kalai21-creator&layout=compact&theme=radical)
-
-### 🚀 Streak Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-Kalai21-creator&theme=radical)
 
 
 ### 🎯 **My Mission**
