@@ -65,15 +65,15 @@ With a background in **Electronics and Communication Engineering (ECE)** and a s
 ---
 ### 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?Kalai21-creator=your-github-Kalai21-creator&show_icons=true&theme=radical)
 
 ### 🔥 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Kalai21-creator=your-github-Kalai21-creator&layout=compact&theme=radical)
 
 ### 🚀 Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-Kalai21-creator&theme=radical)
 
 
 ### 🎯 **My Mission**
