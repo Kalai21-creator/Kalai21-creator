@@ -16,7 +16,7 @@ With a background in **Electronics and Communication Engineering (ECE)** and a s
 - **Programming**: C, C++, Python  
 - **Embedded Platforms**: Arduino, MPLAB
 - **Firmware Development**: Bare-metal programming, peripheral interfacing (UART, SPI, I2C, etc.)  
-- **RTOS**: FreeRTOS, Zephyr  
+- **RTOS**: FreeRTOS
 - **Debugging Tools**: GDB, Logic Analyzers, Oscilloscopes  
 - **Version Control**: Git, GitHub  
 
@@ -63,6 +63,18 @@ With a background in **Electronics and Communication Engineering (ECE)** and a s
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-%2300607D.svg?style=flat&logo=platformio&logoColor=white)
 
 ---
+### 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+### 🔥 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+
+### 🚀 Streak Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical)
+
 
 ### 🎯 **My Mission**
 To empower embedded systems to **think smarter**, **react faster**, and **consume less power** while unlocking the endless potential of connected devices.
